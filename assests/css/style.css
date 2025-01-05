@@ -34,3 +34,26 @@
     color: white;
     cursor: pointer;    
 }
+.cont #first{
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-size: 60px;
+    
+} 
+
+.cont img{
+    margin-top: 48px;
+}
+    
+.cont {
+        display: flex;
+        align-items: flex-start; /* Aligne les éléments au début */
+        gap: 70px; /* Espace entre les éléments */
+}
+
+.text {
+        display: flex;
+        flex-direction: column; /* Aligne les paragraphes verticalement */
+        margin-top: 62px;
+        margin-left: 90px;
+}

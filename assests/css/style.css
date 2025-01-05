@@ -85,3 +85,8 @@ cursor: pointer;
     gap: 40px;
     margin-left: 90px;
 }
+footer{
+    background-color: #f8c08c;
+    padding: 30px 90px;
+    margin-top: 40px;
+}

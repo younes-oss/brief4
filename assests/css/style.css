@@ -23,3 +23,14 @@
     left:12%;
     bottom:25px
 }
+.test button {
+    position: relative;
+    padding: 10px 6px;
+    top: -67px;
+    left: 49%;
+    border: none;
+    border-radius: 9px;
+    background-color: #df7009;
+    color: white;
+    cursor: pointer;    
+}
